@@ -1,13 +1,20 @@
 # Hassan Mahmoud
 
-**Available for research · Fall 2026**
+* **Available for research · Fall 2026**
 
-Computer Science student at **University of Michigan-Dearborn**, pursuing a **B.S. with an Artificial Intelligence concentration**. Building a foundation in C/C++, applied math, programming logic, and iOS development — with a focus on practical AI, human-centered software, and products that solve real problems for real users.
+* Computer Science student at **University of Michigan-Dearborn**, pursuing a **B.S. with an Artificial Intelligence concentration**.
 
-**Email:** [hhassanm@umich.edu](mailto:hhassanm@umich.edu)
-**LinkedIn:** linkedin.com/in/hassan-mahmoud-aa5132412
-**Location:** Dearborn, MI 
-**Phone:** (313) 445-4477
+* Building a foundation in C/C++, applied math, programming logic, and iOS development.
+
+* Focused on practical AI, human-centered software, and products that solve real problems for real users.
+
+* **Email:** [hhassanm@umich.edu](mailto:hhassanm@umich.edu)
+
+* **LinkedIn:** linkedin.com/in/hassan-mahmoud-aa5132412
+
+* **Location:** Dearborn, MI
+
+* **Phone:** (313) 445-4477
 
 ---
 
