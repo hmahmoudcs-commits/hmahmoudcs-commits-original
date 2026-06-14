@@ -71,7 +71,7 @@ English · Arabic
 * Strengthened object-oriented thinking by separating responsibilities clearly and building code that is easier to read, extend, and debug.
 
 [Try the Demo](student-demo)
-[Try the Demo](pet-services-demo)
+
 
 ### Gym Membership Invoice
 
