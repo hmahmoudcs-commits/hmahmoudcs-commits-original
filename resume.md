@@ -6,7 +6,7 @@ Computer Science student at **University of Michigan-Dearborn**, pursuing a **B.
 
 **Email:** [hhassanm@umich.edu](mailto:hhassanm@umich.edu)
 **LinkedIn:** linkedin.com/in/hassan-mahmoud-aa5132412
-**Location:** Dearborn, MI
+**Location:** Dearborn, MI 
 **Phone:** (313) 445-4477
 
 ---
