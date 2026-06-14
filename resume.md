@@ -72,7 +72,8 @@ English · Arabic
 * Organized real-world data relationships between academic records, athlete participation, and cost-related output so the program behaves like a small administrative system.
 * Strengthened object-oriented thinking by separating responsibilities clearly and building code that is easier to read, extend, and debug.
 
-**Try the Demo**
+[Try the Demo](student-demo)
+[Try the Demo](pet-services-demo)
 
 ### Gym Membership Invoice
 
@@ -82,7 +83,7 @@ English · Arabic
 * Applied class composition and operator overloading to keep the invoice logic organized while producing clean transaction-style output.
 * Practiced translating business rules into working code, including pricing logic, formatted totals, and readable user-facing results.
 
-**Try the Demo**
+[Try the Demo](gym-demo)
 
 ### Retail / Product Management
 
@@ -92,7 +93,7 @@ English · Arabic
 * Structured program logic to handle item details, quantity changes, pricing calculations, and clean interaction between user input and stored product data.
 * Reinforced practical debugging and validation habits by checking calculations, output formatting, and the flow of information across the program.
 
-**Try the Demo**
+[Try the Demo](retail-demo)
 
 ### Dog & Veterinary Management
 
@@ -102,9 +103,9 @@ English · Arabic
 * Implemented workflows for storing, updating, searching, and displaying records while practicing arrays, strings, functions, and file-style organization.
 * Built stronger habits around breaking a larger problem into smaller program sections that can be tested, corrected, and improved over time.
 
-**Try the Demo**
+[Try the Demo](dog-demo)
 
-### Pet & Veterinary Services
+### Veterinary Services
 
 **C**
 
@@ -112,7 +113,7 @@ English · Arabic
 * Used structured C programming to separate input, processing, calculations, and output so the application follows a clear workflow from start to finish.
 * Practiced building a more realistic console application that combines user interaction, service data, billing logic, and formatted customer-facing results.
 
-**Try the Demo**
+[Try the Demo](vet-demo)
 
 ### Introductory Programming Projects
 
