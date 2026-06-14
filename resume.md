@@ -1,106 +1,172 @@
 # Hassan Mahmoud
 
-Dearborn, MI | (313) 445-447 | [hhassanm@umich.edu](mailto:hhassanm@umich.edu) | linkedin.com/in/hassan-mahmoud-aa5132412
+**Available for research · Fall 2026**
+
+Computer Science student at **University of Michigan-Dearborn**, pursuing a **B.S. with an Artificial Intelligence concentration**. Building a foundation in C/C++, applied math, programming logic, and iOS development — with a focus on practical AI, human-centered software, and products that solve real problems for real users.
+
+**Email:** [hhassanm@umich.edu](mailto:hhassanm@umich.edu)
+**LinkedIn:** linkedin
+**Location:** Dearborn, MI
+**Phone:** (313) 445-4477
+
+---
 
 ## Education
 
-### University of Michigan-Dearborn — Bachelor of Science in Computer Science
+### B.S. Computer Science
 
-**Starting Aug 2026–2028**
-**Concentration:** Artificial Intelligence
+**University of Michigan-Dearborn**
+**Aug 2026 — 2028**
 
-* Pursuing Computer Science with academic interests in artificial intelligence, software engineering, algorithms, and research computing.
+* Pursuing a Bachelor of Science in Computer Science with a concentration in Artificial Intelligence, preparing for advanced coursework in algorithms, systems, data-driven computing, and applied AI.
+* Focused on building a strong CS foundation across programming, data structures, discrete mathematics, computer organization, probability, software design, and research-oriented problem solving.
+* Academic interests include artificial intelligence, software engineering, human-centered computing, mobile applications, and research-driven product development that connects technical work to real user needs.
+* Seeking opportunities to apply classroom knowledge through faculty-led research, project-based learning, and software projects that require coding, debugging, documentation, and consistent iteration.
 
-### Henry Ford College — Associate Degree / Transfer Coursework
+### Associate Degree · Transfer Coursework
 
-**Aug 2024–2026**
+**Henry Ford College**
+**Aug 2024 — 2026**
 
-* Coursework in C Programming, C++, Calculus II, Linear Algebra, Discrete Mathematics, and Physics.
-* Developed a foundation in programming logic, object-oriented design, debugging, data structures, mathematical analysis, and algorithmic thinking.
+* Completed transfer coursework in C Programming, C++, Calculus II, Linear Algebra, Discrete Mathematics, and Physics while preparing for upper-division computer science study.
+* Built a technical base in object-oriented programming, procedural programming, debugging, program design, Boolean logic, proofs, mathematical reasoning, and structured problem solving.
+* Used coursework projects to practice turning requirements into working programs with organized functions, classes, input validation, formatted output, and reliable logic.
+* Strengthened the bridge between math and computing through discrete structures, linear algebra concepts, algorithmic thinking, and hands-on programming assignments.
+
+---
 
 ## Technical Skills
 
-**Languages:** C, C++, Swift, Matlab
-**Software Development:** Object-Oriented Programming, Data Structures, Algorithms, File I/O, Debugging, Program Design
-**Math/CS Foundations:** Calculus I, Calculus II, Linear Algebra, Discrete Mathematics, Boolean Logic
-**Tools:** GitHub, Visual Studio Code, Xcode, Microsoft Office
-**Spoken Languages:** English, Arabic
+### Languages
 
-## Research Interests
+* C
+* C++
+* Swift
+* MATLAB
 
-* Interested in faculty-led undergraduate research involving artificial intelligence, software engineering, algorithms, data analysis, mobile applications, human-centered computing, and research computing.
-* Prepared to contribute through coding, debugging, literature review, data organization, documentation, and consistent project work.
+### Math / CS
+
+* Calculus I & II
+* Linear Algebra
+* Discrete Math
+* Boolean Logic
+
+### Tools
+
+* GitHub
+* Xcode
+* Microsoft Office
+
+### Spoken
+
+* English
+* Arabic
+
+---
 
 ## Technical Projects
 
-### Student Athlete Management Program — C++
+### Student Athlete Management
 
-* Developed a student records system that demonstrates a strong understanding 
-  of object-oriented design, applying class structure, encapsulation, and 
-  operator overloading to model real-world relationships between students 
-  and their athletic involvement.
-* Applied fee tracking and multi-sport enrollment logic to reflect practical 
-  software design thinking — organizing data and behavior in a way that mirrors 
-  how real systems manage people and costs.
+**C++**
 
-* [▶ Try the Demo](student-demo)
+* Designed a C++ management system that models students and athletes through class structure, encapsulation, constructors, accessors, and operator overloading.
+* Organized real-world data relationships between academic records, athlete participation, and cost-related output so the program behaves like a small administrative system.
+* Strengthened object-oriented thinking by separating responsibilities clearly and building code that is easier to read, extend, and debug.
 
-### Gym Membership Invoice Program — C++
+**Try the Demo**
 
-* Built a membership billing system that reflects a solid grasp of 
-  object-oriented principles, using class composition and operator overloading 
-  to separate concerns cleanly and model a real invoicing workflow.
-* Applied dynamic pricing logic across multiple membership tiers, handling 
-  discounts, surcharges, and billing conditions in a way that demonstrates 
-  both programming maturity and an ability to translate real-world business 
-  rules into working code.
+### Gym Membership Invoice
 
-* [▶ Try the Demo](gym-demo)
+**C++**
 
-### Retail / Product Management Program — C/C++
+* Built a C++ invoicing workflow for gym membership services, using object-oriented design to represent customers, membership options, and billable items.
+* Applied class composition and operator overloading to keep the invoice logic organized while producing clean transaction-style output.
+* Practiced translating business rules into working code, including pricing logic, formatted totals, and readable user-facing results.
 
-* Built a product management program to organize product information, process customer selections, calculate totals, and format transaction-style output.
-* Used arrays/vectors, loops, conditionals, functions, and debugging to structure program logic and verify accurate calculations and user interaction.
+**Try the Demo**
 
-* [▶ Try the Demo](retail-demo)
+### Retail / Product Management
 
-### Veterinary Management Program — C/C++
+**C++**
 
-* Developed a record-management application to organize animal and client-related information using structured program logic and object-oriented design.
-* Implemented logic for storing, updating, searching, and displaying records in a readable format while strengthening encapsulation, debugging, and program design skills.
-  
-* [▶ Try the Demo](vet-demo)
+* Built a product management program to organize inventory records, process customer selections, calculate totals, and format transaction-style output.
+* Structured program logic to handle item details, quantity changes, pricing calculations, and clean interaction between user input and stored product data.
+* Reinforced practical debugging and validation habits by checking calculations, output formatting, and the flow of information across the program.
 
-### Introductory Programming Projects — C and C++
+**Try the Demo**
 
-* Completed programming assignments involving arithmetic processing, conditionals, loops, functions, arrays, strings, file handling, formatted output, and debugging.
+### Dog & Veterinary Management
 
-## Certifications and Technical Training
+**C**
 
-### Meta iOS Developer Professional Certificate — In Progress
+* Developed a C record-management application for organizing animal and client information using structured programming logic.
+* Implemented workflows for storing, updating, searching, and displaying records while practicing arrays, strings, functions, and file-style organization.
+* Built stronger habits around breaking a larger problem into smaller program sections that can be tested, corrected, and improved over time.
 
-**Mar 2024–Present**
+**Try the Demo**
 
-* Developing iOS software development skills using Swift, Xcode, user interface design, debugging, and mobile app development workflows.
-* Studying mobile software architecture and project-based software engineering concepts to expand programming experience beyond coursework.
-* Developing mobile app development skills through Meta coursework focused on Swift, SwiftUI, React Native, front-end development, Boolean logic, user-centered design, and real-world software projects.
+### Pet & Veterinary Services
+
+**C**
+
+* Created a pet and veterinary services billing system with service selection, client lookup, new account creation, and itemized receipt generation.
+* Used structured C programming to separate input, processing, calculations, and output so the application follows a clear workflow from start to finish.
+* Practiced building a more realistic console application that combines user interaction, service data, billing logic, and formatted customer-facing results.
+
+**Try the Demo**
+
+### Introductory Programming Projects
+
+**C / C++**
+
+* Completed foundational assignments covering arithmetic, conditionals, loops, functions, arrays, strings, file handling, formatted output, and debugging across C and C++.
+* Used these smaller programs to build speed with syntax, strengthen problem-solving habits, and prepare for larger object-oriented and data-driven projects.
+
+---
+
+## Research Interests
+
+Interested in faculty-led undergraduate research involving artificial intelligence, software engineering, algorithms, data analysis, mobile applications, human-centered computing, and research computing.
+
+Particularly drawn to research that turns technical ideas into useful systems: AI tools that assist decision-making, software that improves accessibility or productivity, and applications that help people in health, education, or everyday problem solving.
+
+Prepared to contribute through coding, debugging, literature review, data cleaning and organization, documentation, testing, and consistent project work. Comfortable learning new tools as needed and working through complex problems step by step.
+
+Long-term goal is to become a software engineer who can connect strong technical implementation with meaningful products, whether through research prototypes, mobile applications, or practical AI-powered systems.
+
+---
+
+## Certifications & Training
+
+### Meta iOS Developer Professional Certificate
+
+**Mar 2026 – Present · In Progress**
+
+Professional iOS development training focused on building proficiency in Swift, Xcode, app screens, user interface structure, and project-based mobile software development. Developing proficiency in JavaScript and React Native for cross-platform mobile development, while also advancing toward advanced Swift programming for native iOS applications. The certificate supports hands-on practice with how mobile apps are planned, organized, built, tested, and improved over time. It connects programming concepts to real app features such as navigation, screen layout, reusable components, user experience, and the process of turning an idea into a working mobile application.
 
 ### Introduction to C++ Programming: Build a Calculator
 
-**Coursera | Issued May 2026**
+**Coursera · Issued May 2026 · ID: RBXCGU4ARRE0**
 
-* Credential ID: RBXCGU4ARRE0; completed a project-based C++ course focused on programming fundamentals, user input, arithmetic logic, output formatting, and basic application structure.
+Project-based C++ training centered on building a working calculator application from basic language fundamentals. Reinforced variables, expressions, user input, arithmetic logic, condition handling, output formatting, and simple application structure. Helped connect beginner syntax to a complete usable program by requiring the code to accept input, process operations, and display clear results in a way that mirrors a real console-based software workflow.
+
+---
 
 ## Experience
 
-### Managing Cell Phone Repair Technician — CPR Cell Phone Repair
+### Managing Cell Phone Repair Technician
 
-**Aug 2024–Present**
+**CPR Cell Phone Repair**
+**Aug 2024 – Present**
 
-* Manage both front-of-store customer service and back-of-store technical repair operations in a fast-paced electronics repair environment.
-* Assist customers directly by checking in devices, explaining repair options, communicating timelines, answering service questions, and supporting a smooth customer experience.
-* Diagnose and complete smartphone, tablet, and game console repairs, including screen replacements, battery replacements, charging issues, repair verification, and functional testing.
-* Balance customer-facing responsibilities with hands-on repair work, managing multiple priorities across service intake, repair completion, and customer pickup.
-* Support inventory management by tracking parts availability, monitoring stock levels, identifying shortages or overstock, and helping maintain repair-ready inventory.
-* Place and coordinate part orders when inventory is low, ensuring commonly used repair components are available for daily store operations.
-* Maintain organized inventory and repair workflows to reduce delays, support accurate stock counts, and keep customer repairs moving efficiently.
+* Manage both front-of-store customer service and back-of-store technical repair responsibilities in a fast-paced electronics repair environment.
+* Handle service intake, customer communication, repair explanations, pricing discussions, pickup coordination, and issue resolution while maintaining a professional customer experience.
+* Diagnose and complete smartphone, tablet, and game console repairs, including screen replacements, battery replacements, charging issues, component swaps, and general device troubleshooting.
+* Balance customer-facing responsibilities with hands-on repair work, moving between front counter support and technical repair completion throughout the same shift.
+* Support inventory operations by tracking parts usage, monitoring stock levels, identifying shortages or overstock, coordinating new orders, and helping maintain repair-ready supply levels.
+* Apply strong attention to detail, device handling discipline, and troubleshooting judgment to complete repairs accurately while protecting customer devices and store workflow.
+
+---
+
+Hassan Mahmoud · Dearborn, MI · 2026
