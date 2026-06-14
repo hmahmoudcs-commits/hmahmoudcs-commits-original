@@ -14,4 +14,4 @@ C | C++ | Swift | MATLAB | GitHub | Xcode | Visual Studio Code
 
 ---
 
-[Click here for my resume!](resume.md)
+[Click here for my resume!](resume)
