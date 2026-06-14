@@ -281,9 +281,9 @@ Long-term goal is to become a software engineer who can connect strong technical
 
 **Mar 2026 – Present · In Progress**
 
-*Professional iOS development training focused on building proficiency in Swift, Xcode, app screens, user interface structure, and project-based mobile software development. 
-*Developing proficiency in JavaScript and React Native for cross-platform mobile development, while also advancing toward advanced Swift programming for native iOS applications. 
-*The certificate supports hands-on practice with how mobile apps are planned, organized, built, tested, and improved over time. It connects programming concepts to real app features such as navigation, screen layout, reusable components, user experience, and the process of turning an idea into a working mobile application.
+Professional iOS development training focused on building proficiency in Swift, Xcode, app screens, user interface structure, and project-based mobile software development. 
+Developing proficiency in JavaScript and React Native for cross-platform mobile development, while also advancing toward advanced Swift programming for native iOS applications. 
+The certificate supports hands-on practice with how mobile apps are planned, organized, built, tested, and improved over time. It connects programming concepts to real app features such as navigation, screen layout, reusable components, user experience, and the process of turning an idea into a working mobile application.
 
 ### Introduction to C++ Programming: Build a Calculator
 
